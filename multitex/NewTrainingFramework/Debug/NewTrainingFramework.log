@@ -1,0 +1,5 @@
+﻿  camera.cpp
+c:\users\ольга\desktop\git\fire and camera\newtrainingframework\newtrainingframework\camera.cpp(62): warning C4244: =: преобразование "LONG" в "GLfloat", возможна потеря данных
+c:\users\ольга\desktop\git\fire and camera\newtrainingframework\newtrainingframework\camera.cpp(63): warning C4244: =: преобразование "LONG" в "GLfloat", возможна потеря данных
+  NewTrainingFramework.vcxproj -> C:\Users\Ольга\Desktop\git\fire and camera\NewTrainingFramework\\BIN\NewTrainingFramework.exe
+  NewTrainingFramework.vcxproj -> C:\Users\Ольга\Desktop\git\fire and camera\NewTrainingFramework\\BIN\NewTrainingFramework.pdb (Full PDB)
